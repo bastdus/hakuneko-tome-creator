@@ -1,0 +1,16 @@
+{
+  "main": "index.js",
+  "description": "A simple script to generate Tome pdf file from images downloaded with hakuneko",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ts-node script.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "@types/pdfkit": "^0.13.4",
+    "pdfkit": "^0.14.0",
+    "sharp": "^0.33.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
