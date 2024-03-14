@@ -308,7 +308,7 @@ export const timeline = {
 		chapter: [764, 775],
 	},
 	'Tome 78': {
-		title: 'L’icône du mal',
+		title: "L'icône du mal",
 		chapter: [776, 785],
 	},
 	'Tome 79': {
