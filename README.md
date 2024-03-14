@@ -2,7 +2,7 @@
 
 When you download a manga with [Hakuneko](https://hakuneko.download/), you will have a main folder containing all chapter folders that contains the images.
 
-In order to read the manga on an e-reader or more easily on a computer, mobile..., you will need to create a pdf file that regroup all the tome chapters, and do it for each tome of the manga.
+In order to read the manga on an e-reader or more easily on a computer, mobile..., you will need to create a pdf file that regroup all the chapters of a tome, and do it for each tome of the manga.
 
 And that's where this script comes in. It will create the pdf files for each tome of the manga 😎
 
